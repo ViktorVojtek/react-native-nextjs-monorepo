@@ -28,7 +28,7 @@ export function App() {
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>
-                Code sharing using Monorepo ako LUSK
+                Code sharing using Monorepo.
               </Text>
               <Text style={styles.sectionDescription}>
                 Edit{' '}
